@@ -10,6 +10,12 @@ I'm a Computer Science graduate passionate about Machine Learning and Natural La
 - NLP (spaCy, NLTK, Hugging Face)
 ---
 
+## 🧮Competitive Programming
+- Solved over **390+ competitive programming problems** across platforms.  
+- See my full [Competitive Programming Archive] (https://github.com/TuliDas/Competitive-Programming-Archive#readme) for details.
+
+---
+
 ## 📜 Certifications
 - [Supervised Machine Learning: Regression and Classification by Andrew Ng (Coursera)] (https://coursera.org/share/8034a86edf8993ffc98dba0283670cf3)
 ---
