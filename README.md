@@ -11,8 +11,8 @@ I'm a Computer Science graduate passionate about Machine Learning and Natural La
 ---
 
 ## 🧮Competitive Programming
-- Solved over **390+ competitive programming problems** across platforms.  
-- See my full [Competitive Programming Archive] (https://github.com/TuliDas/Competitive-Programming-Archive#readme) for details.
+- Solved approximately **400 problems** across various online judges.  
+👉See the full [Competitive Programming Archive](https://github.com/TuliDas/Competitive-Programming-Archive#readme) for platform-wise breakdown and profile links.
 
 ---
 
