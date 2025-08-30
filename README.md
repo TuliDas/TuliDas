@@ -24,7 +24,7 @@ I'm a Computer Science graduate passionate about Machine Learning and Natural La
 ---
 
 ## 📂 Projects
-
+- [Benchmarking Supervised ML Models for Sentiment Classification (NLP) on IMDB Reviews](https://github.com/TuliDas/Benchmarking-Supervised-ML-Models-for-Sentiment-Classification-NLP-on-IMDB-Reviews)
 ---
 
 ## 📫 Contact
