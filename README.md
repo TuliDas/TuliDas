@@ -17,9 +17,10 @@ I'm a Computer Science graduate passionate about Machine Learning and Natural La
 ---
 
 ## 📜 Certifications
+- [Natural Language Processing with Classification and Vector Spaces (DeepLearning.AI)](https://coursera.org/share/cac0ab78092ed93a622a2d9d0dd60322)
 - [Introduction to Natural Language Processing (Great Learning)](https://www.mygreatlearning.com/certificate/RADCCTBE)
   Certificate ID : RADCCTBE
-- [Supervised Machine Learning: Regression and Classification by Andrew Ng (Coursera)](https://coursera.org/share/8034a86edf8993ffc98dba0283670cf3)
+- [Supervised Machine Learning: Regression and Classification by Andrew Ng (DeepLearning.AI)](https://coursera.org/share/8034a86edf8993ffc98dba0283670cf3)
   
 ---
 
