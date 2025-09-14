@@ -25,7 +25,8 @@ I'm a Computer Science graduate passionate about Machine Learning and Natural La
 ---
 
 ## 📂 Projects
-- [Benchmarking Supervised ML Models for Sentiment Classification (NLP) on IMDB Reviews](https://github.com/TuliDas/Benchmark-ML-Models-Movie-Reviews-Sentiment)
+ - **[MindScan: Multi-class Mental Health Detection from Social Media](https://github.com/TuliDas/MindScan-NLP)** *(WORK-IN-PROGRESS)*
+ - [Benchmarking Supervised ML Models for Sentiment Classification (NLP) on IMDB Reviews](https://github.com/TuliDas/Benchmark-ML-Models-Movie-Reviews-Sentiment)
 ---
 
 ## 📫 Contact
