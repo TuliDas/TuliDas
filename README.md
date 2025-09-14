@@ -10,11 +10,9 @@ I'm currently building projects and learning through online courses.
 - Machine Learning
 - NLP (spaCy, NLTK, Hugging Face)
 ---
-
-## 🧮Competitive Programming
-- Solved approximately **400 problems** across various online judges.  
-👉See the full [Competitive Programming Archive](https://github.com/TuliDas/Competitive-Programming-Archive#readme) for platform-wise breakdown and profile links.
-
+## 📂 Projects
+ - [MindScan: Multi-class Mental Health Detection from Social Media](https://github.com/TuliDas/MindScan-NLP) *(WORK-IN-PROGRESS)*
+ - [Benchmarking Supervised ML Models for Sentiment Classification (NLP) on IMDB Reviews](https://github.com/TuliDas/Benchmark-ML-Models-Movie-Reviews-Sentiment)
 ---
 
 ## 📜 Certifications
@@ -22,12 +20,12 @@ I'm currently building projects and learning through online courses.
 - [Introduction to Natural Language Processing (Great Learning)](https://www.mygreatlearning.com/certificate/RADCCTBE)
   Certificate ID : RADCCTBE
 - [Supervised Machine Learning: Regression and Classification by Andrew Ng (DeepLearning.AI)](https://coursera.org/share/8034a86edf8993ffc98dba0283670cf3)
-  
+-   
 ---
 
-## 📂 Projects
- - [MindScan: Multi-class Mental Health Detection from Social Media](https://github.com/TuliDas/MindScan-NLP) *(WORK-IN-PROGRESS)*
- - [Benchmarking Supervised ML Models for Sentiment Classification (NLP) on IMDB Reviews](https://github.com/TuliDas/Benchmark-ML-Models-Movie-Reviews-Sentiment)
+## 🧮Competitive Programming
+- Solved approximately **400 problems** across various online judges.  
+👉See the full [Competitive Programming Archive](https://github.com/TuliDas/Competitive-Programming-Archive#readme) for platform-wise breakdown and profile links.
 ---
 
 ## 📫 Contact
