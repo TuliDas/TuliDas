@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Tuli Rani Das,
 
-I'm a Computer Science graduate passionate about Machine Learning and Natural Language Processing (NLP). I'm currently building projects and learning through online courses.
+Aspiring Data Scientist & Natural Language Processing (NLP) enthusiast with a BSc in Computer Science and Engineering from KUET (2022). I am passionate about applying ML and NLP to health-related problems and enjoy working with data and text to uncover insights.
+I'm currently building projects and learning through online courses.
 
 ---
 
