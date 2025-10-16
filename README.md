@@ -30,4 +30,4 @@ I'm currently building projects and learning through online courses.
 
 ## 📫 Contact
 - Email: tuli.r.das@gmail.com 
-- LinkedIn: [Tuli Rani Das](www.linkedin.com/in/tuli-rani-das)
+- LinkedIn: [Tuli Rani Das](https://www.linkedin.com/in/tuli-rani-das/)
