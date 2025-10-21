@@ -16,6 +16,7 @@ I'm currently building projects and learning through online courses.
 ---
 
 ## 📜 Certifications
+- [Advanced Learning Algorithms (DeepLearning.AI)](https://coursera.org/share/aeb588d410bbb786de7ad1799f00eeed)
 - [Natural Language Processing with Classification and Vector Spaces (DeepLearning.AI)](https://coursera.org/share/cac0ab78092ed93a622a2d9d0dd60322)
 - [Introduction to Natural Language Processing (Great Learning)](https://www.mygreatlearning.com/certificate/RADCCTBE)
   Certificate ID : RADCCTBE
