@@ -17,10 +17,7 @@ I'm currently building projects and learning through online courses.
 
 ## 📜 Certifications
 - [Machine Learning Specialization (DeepLearning.AI)](https://coursera.org/share/a393356bb691797191c47909f0617602)
-  3-course program :
-  Supervised Learning, 
-  Advanced Learning Algorithms, 
-  Unsupervised Learning, Recommenders and Reinforcement Learning
+  3-course program: *Supervised Learning · Advanced Learning Algorithms · Unsupervised Learning, Recommenders & Reinforcement Learning*
   
 - [Natural Language Processing with Classification and Vector Spaces (DeepLearning.AI)](https://coursera.org/share/cac0ab78092ed93a622a2d9d0dd60322)
   
