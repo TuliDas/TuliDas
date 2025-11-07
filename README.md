@@ -17,19 +17,18 @@ I'm currently building projects and learning through online courses.
 
 ## 📜 Certifications
 - **Deep Learning Specialization – DeepLearning.AI**  
-  *5-course program* — **Ongoing**  
-  - Currently completing : *Course 1 — Neural Networks and Deep Learning* 
+  *5-course program* — **Ongoing** : { *Course-01* } 
+  - Course 1 — *Neural Networks and Deep Learning* 
 
 - **Natural Language Processing Specialization – DeepLearning.AI**  
-  *4-course program* — **Completed**  
-  - [*Course 1 — Classification and Vector Spaces*](https://coursera.org/share/cac0ab78092ed93a622a2d9d0dd60322)
+  *4-course program* — **Completed**: { *Course-01* }  
+  - Course 1 — [**Natural Language Processing with Classification and Vector Spaces**](https://coursera.org/share/cac0ab78092ed93a622a2d9d0dd60322)
 
-- **Machine Learning Specialization – DeepLearning.AI**  
+- [**Machine Learning Specialization – DeepLearning.AI**](https://coursera.org/share/a393356bb691797191c47909f0617602)  
   *3-course program* — **Completed (all)**  
-  [Certificate link](https://coursera.org/share/a393356bb691797191c47909f0617602)
 
-- **Introduction to Natural Language Processing – Great Learning**
-  *Certificate ID:* [**RADCCTBE**](https://www.mygreatlearning.com/certificate/RADCCTBE)  
+- [**Introduction to Natural Language Processing – Great Learning**](https://www.mygreatlearning.com/certificate/RADCCTBE) 
+  *Certificate ID:* [**RADCCTBE**] 
 
 ---
 
