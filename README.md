@@ -16,15 +16,23 @@ I'm currently building projects and learning through online courses.
 ---
 
 ## 📜 Certifications
-- [Machine Learning Specialization (DeepLearning.AI)](https://coursera.org/share/a393356bb691797191c47909f0617602)
-  3-course program: *Supervised Learning · Advanced Learning Algorithms · Unsupervised Learning, Recommenders & Reinforcement Learning*
-  
-- [Natural Language Processing with Classification and Vector Spaces (DeepLearning.AI)](https://coursera.org/share/cac0ab78092ed93a622a2d9d0dd60322)
-  
-- [Introduction to Natural Language Processing (Great Learning)](https://www.mygreatlearning.com/certificate/RADCCTBE)
-  Certificate ID : RADCCTBE
+- **Deep Learning Specialization – DeepLearning.AI**  
+  *5-course program* — **Ongoing**  
+  - *Course 1 — Neural Networks and Deep Learning* (Currently completing)
 
-  
+- **Natural Language Processing Specialization – DeepLearning.AI**  
+  *4-course program* — **Ongoing**  
+  - [*Course 1 — Classification and Vector Spaces*](https://coursera.org/share/cac0ab78092ed93a622a2d9d0dd60322) (**Completed**)
+
+- [**Machine Learning Specialization – DeepLearning.AI**](https://coursera.org/share/a393356bb691797191c47909f0617602)  
+  *3-course program* — **Completed (all)**  
+  - Course 1 — Supervised Learning
+  - Course 2 — Advanced Learning Algorithms
+  - Course 3 — Unsupervised Learning, Recommenders & Reinforcement Learning
+
+- [**Introduction to Natural Language Processing – Great Learning**](https://www.mygreatlearning.com/certificate/RADCCTBE)  
+  *Certificate ID:* **RADCCTBE**
+
 ---
 
 ## 🧮Competitive Programming
