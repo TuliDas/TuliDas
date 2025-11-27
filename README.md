@@ -17,8 +17,8 @@ I'm currently building projects and learning through online courses.
 
 ## 📜 Certifications
 - **Deep Learning Specialization – DeepLearning.AI**  
-  *5-course program* — **Ongoing** : { *Course-01* } 
-  - Course 1 — *Neural Networks and Deep Learning* 
+  *5-course program* — **Completed** : { *Course-01* } 
+  - Course 1 — [**Neural Networks and Deep Learning**](https://coursera.org/share/bd3a108748f952850b188fb8f6959a8c) 
 
 - **Natural Language Processing Specialization – DeepLearning.AI**  
   *4-course program* — **Completed**: { *Course-01* }  
