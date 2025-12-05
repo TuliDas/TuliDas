@@ -1,11 +1,11 @@
-# 👋 Hi, I'm Tuli Rani Das,
+# Hi, I'm Tuli Rani Das,
 
 Aspiring Data Scientist & Natural Language Processing (NLP) enthusiast with a BSc in Computer Science and Engineering from KUET (2022). I am passionate about applying ML and NLP to health-related problems and enjoy working with data and text to uncover insights.
 I'm currently building projects and learning through online courses.
 
 ---
 
-## 🚀 Skills
+## Skills
 - Python, C++
 - Machine Learning
 - NLP (spaCy, NLTK, Hugging Face)
@@ -38,11 +38,11 @@ I'm currently building projects and learning through online courses.
 
 ---
 
-## 🧮Competitive Programming
+## Competitive Programming
 - Solved approximately **400 problems** across various online judges.  
 👉See the full [Competitive Programming Archive](https://github.com/TuliDas/Competitive-Programming-Archive#readme) for platform-wise breakdown and profile links.
 ---
 
-## 📫 Contact
+## Contact
 - Email: tuli.r.das@gmail.com 
 - LinkedIn: [Tuli Rani Das](https://www.linkedin.com/in/tuli-rani-das/)
