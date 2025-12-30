@@ -18,7 +18,7 @@ I'm currently building projects and learning through online courses.
 ## 📜 Certifications
 
 #### [Deep Learning Specialization (5-Courses) – DeepLearning.AI](https://www.coursera.org/specializations/deep-learning) 
- **Status:** 1 Course Completed, 2 Courses Ongoing
+ **Status:** 3 Courses Completed
 - Course 1: **Neural Networks and Deep Learning** — Completed  
   - **Certificate:** [View Certificate](https://coursera.org/share/bd3a108748f952850b188fb8f6959a8c)  , **Credential ID:** O029ZWR6H61W  
 - Course 2: **Improving Deep Neural Networks – Hyperparameter Tuning, Regularization, and Optimization** — Completed
