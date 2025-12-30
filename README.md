@@ -21,7 +21,8 @@ I'm currently building projects and learning through online courses.
  **Status:** 1 Course Completed, 2 Courses Ongoing
 - Course 1: **Neural Networks and Deep Learning** — Completed  
   - **Certificate:** [View Certificate](https://coursera.org/share/bd3a108748f952850b188fb8f6959a8c)  , **Credential ID:** O029ZWR6H61W  
-- Course 2: **Improving Deep Neural Networks – Hyperparameter Tuning, Regularization, and Optimization** — Ongoing
+- Course 2: **Improving Deep Neural Networks – Hyperparameter Tuning, Regularization, and Optimization** — Completed
+  - **Certificate:** [View Certificate](https://www.coursera.org/account/accomplishments/verify/L0FTW116H04G)  , **Credential ID:** L0FTW116H04G 
 - Course 3: **Structuring Machine Learning Projects** — Ongoing
 
 #### [**Natural Language Processing Specialization (4-courses) – DeepLearning.AI**](https://www.coursera.org/specializations/natural-language-processing) 
